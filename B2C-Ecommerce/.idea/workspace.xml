@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0287317e-d456-499c-bdbf-7a763c9427a6" name="Default Changelist" comment="my ecommerce project" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../cf76a043-745f-423a-b567-bb8a7b477aa5" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1dICGThVlqIxLK2qEULV9OhJeKR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Study\test\B2C-Ecommerce\src\test" />
+      <recent name="C:\Study\test\B2C-Ecommerce\src\main\resources" />
+      <recent name="C:\Study\test\B2C-Ecommerce\src\main\java" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0287317e-d456-499c-bdbf-7a763c9427a6" name="Default Changelist" comment="" />
+      <created>1592103124769</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592103124769</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="355" y="26" key="CommitChangelistDialog2" timestamp="1592103970736">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="355" y="26" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1592103970736" />
+    <state x="580" y="139" key="FileChooserDialogImpl" timestamp="1592103170670">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="580" y="139" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1592103170670" />
+    <state x="622" y="345" key="Github.CreateGistDialog" timestamp="1592103816159">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="622" y="345" key="Github.CreateGistDialog/0.0.1600.860@0.0.1600.860" timestamp="1592103816159" />
+    <state width="778" height="222" key="GridCell.Tab.0.bottom" timestamp="1592104074204">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="778" height="222" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1592104074204" />
+    <state width="778" height="222" key="GridCell.Tab.0.center" timestamp="1592104074203">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="778" height="222" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1592104074203" />
+    <state width="778" height="222" key="GridCell.Tab.0.left" timestamp="1592104074203">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="778" height="222" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1592104074203" />
+    <state width="778" height="222" key="GridCell.Tab.0.right" timestamp="1592104074204">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="778" height="222" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1592104074204" />
+    <state x="465" y="128" key="NewModule_or_Project.wizard" timestamp="1592103172042">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="465" y="128" key="NewModule_or_Project.wizard/0.0.1600.860@0.0.1600.860" timestamp="1592103172042" />
+  </component>
+</project>
